@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ghost_anim",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.3,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "6f2ff8ff-1e03-4567-af46-7f2b12982b7e"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "3e667217-70d2-4f96-8a36-f5e7e3d8f6dc"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "957739da-f27a-4e19-ba46-cd6103f29045"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

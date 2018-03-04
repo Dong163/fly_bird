@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "flyBird_anim",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.3,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "9da3d412-7c93-4f9d-8fb7-05b2c73ccecb"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "e1f284ff-062a-4e3a-b8a2-6d60bebbd675"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "30def994-6ded-444f-b280-a4f7a459e278"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

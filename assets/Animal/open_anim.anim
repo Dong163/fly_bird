@@ -1,0 +1,222 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "open_anim",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 4.2,
+  "sample": 5,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "9da3d412-7c93-4f9d-8fb7-05b2c73ccecb"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "e1f284ff-062a-4e3a-b8a2-6d60bebbd675"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "30def994-6ded-444f-b280-a4f7a459e278"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "9da3d412-7c93-4f9d-8fb7-05b2c73ccecb"
+            }
+          },
+          {
+            "frame": 0.8,
+            "value": {
+              "__uuid__": "e1f284ff-062a-4e3a-b8a2-6d60bebbd675"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "30def994-6ded-444f-b280-a4f7a459e278"
+            }
+          },
+          {
+            "frame": 1.2,
+            "value": {
+              "__uuid__": "9da3d412-7c93-4f9d-8fb7-05b2c73ccecb"
+            }
+          },
+          {
+            "frame": 1.4,
+            "value": {
+              "__uuid__": "e1f284ff-062a-4e3a-b8a2-6d60bebbd675"
+            }
+          },
+          {
+            "frame": 1.6,
+            "value": {
+              "__uuid__": "30def994-6ded-444f-b280-a4f7a459e278"
+            }
+          },
+          {
+            "frame": 1.8,
+            "value": {
+              "__uuid__": "9da3d412-7c93-4f9d-8fb7-05b2c73ccecb"
+            }
+          },
+          {
+            "frame": 2,
+            "value": {
+              "__uuid__": "e1f284ff-062a-4e3a-b8a2-6d60bebbd675"
+            }
+          },
+          {
+            "frame": 2.2,
+            "value": {
+              "__uuid__": "30def994-6ded-444f-b280-a4f7a459e278"
+            }
+          },
+          {
+            "frame": 2.4,
+            "value": {
+              "__uuid__": "9da3d412-7c93-4f9d-8fb7-05b2c73ccecb"
+            }
+          },
+          {
+            "frame": 2.6,
+            "value": {
+              "__uuid__": "e1f284ff-062a-4e3a-b8a2-6d60bebbd675"
+            }
+          },
+          {
+            "frame": 2.8,
+            "value": {
+              "__uuid__": "30def994-6ded-444f-b280-a4f7a459e278"
+            }
+          },
+          {
+            "frame": 3,
+            "value": {
+              "__uuid__": "9da3d412-7c93-4f9d-8fb7-05b2c73ccecb"
+            }
+          },
+          {
+            "frame": 3.2,
+            "value": {
+              "__uuid__": "e1f284ff-062a-4e3a-b8a2-6d60bebbd675"
+            }
+          },
+          {
+            "frame": 3.4,
+            "value": {
+              "__uuid__": "30def994-6ded-444f-b280-a4f7a459e278"
+            }
+          },
+          {
+            "frame": 3.6,
+            "value": {
+              "__uuid__": "9da3d412-7c93-4f9d-8fb7-05b2c73ccecb"
+            }
+          },
+          {
+            "frame": 3.8,
+            "value": {
+              "__uuid__": "e1f284ff-062a-4e3a-b8a2-6d60bebbd675"
+            }
+          },
+          {
+            "frame": 4,
+            "value": {
+              "__uuid__": "30def994-6ded-444f-b280-a4f7a459e278"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -179.8,
+            18.9
+          ],
+          "motionPath": [
+            [
+              -140.4,
+              3.7,
+              -165.6,
+              5.7,
+              -130.1,
+              2.9
+            ],
+            [
+              -96.2,
+              -4.2,
+              -113.6,
+              -18.4,
+              -81.8,
+              7.7
+            ],
+            [
+              -57.3,
+              12.7,
+              -69.9,
+              2.2,
+              -39.4,
+              27.7
+            ],
+            [
+              -1.8,
+              44.1,
+              -25.4,
+              44.1,
+              17.7,
+              44.5
+            ],
+            [
+              47.7,
+              2.2,
+              39.8,
+              21.8,
+              57.5,
+              -22.4
+            ],
+            [
+              102.5,
+              -45,
+              86.6,
+              -57.1,
+              106.6,
+              -42
+            ],
+            [
+              159.2,
+              -15,
+              134.9,
+              -43.5,
+              160.3,
+              -13.8
+            ]
+          ]
+        },
+        {
+          "frame": 4,
+          "value": [
+            201,
+            72
+          ],
+          "motionPath": []
+        }
+      ]
+    }
+  },
+  "events": []
+}

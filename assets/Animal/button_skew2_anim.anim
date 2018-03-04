@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "button_skew2_anim",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.67,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "425b7cda-21f5-47ec-b3a3-a43360fc1472"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "x": [
+        {
+          "frame": 0,
+          "value": 210
+        },
+        {
+          "frame": 0.5,
+          "value": -20
+        },
+        {
+          "frame": 0.6666666666666666,
+          "value": 0
+        }
+      ],
+      "skewX": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 0.5,
+          "value": -20
+        },
+        {
+          "frame": 0.6666666666666666,
+          "value": 0
+        }
+      ]
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "red_bird_anim",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.3,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "83ba650b-5ac8-42d1-8f09-1134e8b10260"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "1bd823dd-139b-4f5a-894d-824b924aa8db"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "c16ec90e-00b8-4d4c-86bb-d99fb9cab8fa"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
